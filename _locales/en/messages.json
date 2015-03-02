@@ -1,0 +1,145 @@
+{
+   "account": {
+      "description": "account",
+      "message": "account"
+   },
+   "contextMenuShareImage": {
+      "description": "Share Image to Sina Weibo",
+      "message": "Share Image to Sina Weibo"
+   },
+   "contextMenuSharePage": {
+      "description": "Share Page to Sina Weibo",
+      "message": "Share Page to Sina Weibo"
+   },
+   "contextMenuShareSelection": {
+      "description": "Share Selection to Sina Weibo",
+      "message": "Share Selection to Sina Weibo"
+   },
+   "contextMenuShareImageRenRen": {
+   		"description": "Share Image to RenRen",
+   		"message":	"Share Image to RenRen"
+   },
+   "contextMenuSharePageRenRen": {
+   		"description": "Share Page to RenRen",
+   		"message":	"Share Page to RenRen"
+   },
+   "contextMenuShareSelectionRenRen": {
+   		"description": "Share Selection to RenRen",
+   		"message":	"Share Selection to RenRen"
+   },
+   "contextMenuShareImageTencent": {
+      "description": "Share Image to Tencent Weibo",
+      "message": "Share Image to Tencent Weibo"
+   },
+   "contextMenuSharePageTencent": {
+      "description": "Share Page to Tencent Weibo",
+      "message": "Share Page to Tencent Weibo"
+   },
+   "contextMenuShareSelectionTencent": {
+      "description": "Share Selection to Tencent Weibo",
+      "message": "Share Selection to Tencent Weibo"
+   },   
+   "contextMenuShareImageWangyi": {
+      "description": "Share Image to Wangyi Weibo",
+      "message": "Share Image to Wangyi Weibo"
+   },
+   "contextMenuSharePageWangyi": {
+      "description": "Share Page to Wangyi Weibo",
+      "message": "Share Page to Wangyi Weibo"
+   },
+   "contextMenuShareSelectionWangyi": {
+      "description": "Share Selection to Wangyi Weibo",
+      "message": "Share Selection to Wangyi Weibo"
+   },
+   "extDescription": {
+      "description": "Extension description.",
+      "message": "One-click share to SNS or Get QR code for Phone use"
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "Share to SNS / Move to Phone"
+   },
+   "optionsAccountTitle": {
+      "description": "account title of the options page",
+      "message": "Account settings"
+   },
+   "optionsAutoLoadNewFeeds": {
+      "description": "text of the checkbox whether load new feeds automatically",
+      "message": "Load new feeds automatically"
+   },
+   "optionsHideAds": {
+      "description": "text for checkbox whether to hide the ads",
+      "message": "Hide ads."
+   },
+   "optionsReset": {
+      "description": "text for button to restore default settings",
+      "message": "Default"
+   },
+   "optionsSave": {
+      "description": "text for button to save settings",
+      "message": "Save"
+   },
+   "optionsTitle": {
+      "description": "Title of the options page.",
+      "message": "Sina Weibo Helper Settings"
+   },
+   "optionsUseUrlShortening": {
+      "description": "text for checkbox whether use url shortening.",
+      "message": "Use url shortening"
+   },
+   "others": {
+      "description": "others",
+      "message": "others"
+   },
+   "password": {
+      "description": "password",
+      "message": "password"
+   },
+   "popupAddAccount": {
+      "description": "add account",
+      "message": "Add account"
+   },
+   "popupAtMe": {
+      "description": "atme",
+      "message": "@me"
+   },
+   "popupHome": {
+      "description": "home",
+      "message": "Home"
+   },
+   "popupMessages": {
+      "description": "Messages",
+      "message": "Messages"
+   },
+   "popupSettings": {
+      "description": "Settings",
+      "message": "Settings"
+   },
+   "popupShare": {
+      "description": "Share",
+      "message": "Share"
+   },
+   "popupShorten": {
+      "description": "Shorten",
+      "message": "Shorten"
+   },
+   "popupSwitchUser": {
+      "description": "Switch user",
+      "message": "Switch user"
+   },
+   "getSelectionQR": {
+   		"description": "Get Selection	QR Code",
+   		"message": "Get Selection	QR Code"
+   },
+   "getPageQR": {
+   		"description": "Get Page QR Code",
+   		"message": "Get Page QR Code"
+   },
+   "getImageQR": {
+   		"description": "Get Image QR Code",
+   		"message":	"Get Image QR Code"
+   }
+  
+   
+   
+}

@@ -1,0 +1,142 @@
+{
+   "account": {
+      "description": "account",
+      "message": "\u5E10\u53F7"
+   },
+   "contextMenuShareImage": {
+      "description": "Share Image to Sina Weibo",
+      "message": "\u5206\u4EAB\u56FE\u7247\u5230\u65b0\u6d6a\u5FAE\u535A"
+   },
+   "contextMenuSharePage": {
+      "description": "Share Page to Sina Weibo",
+      "message": "\u5206\u4EAB\u9875\u9762\u5230\u65b0\u6d6a\u5FAE\u535A"
+   },
+   "contextMenuShareSelection": {
+      "description": "Share Selection to Sina Weibo",
+      "message": "\u5206\u4EAB\u9009\u4E2D\u5230\u65b0\u6d6a\u5FAE\u535A"
+   },
+   "contextMenuShareImageRenRen": {
+   		"description": "Share Image to RenRen",
+   		"message":	"\u5206\u4EAB\u56FE\u7247\u5230\u4eba\u4eba"
+   },
+   "contextMenuSharePageRenRen": {
+   		"description": "Share Page to RenRen",
+   		"message":	"\u5206\u4EAB\u9875\u9762\u5230\u4eba\u4eba"
+   },
+   "contextMenuShareSelectionRenRen": {
+   		"description": "Share Selection to RenRen",
+   		"message":	"\u5206\u4EAB\u9009\u4E2D\u5230\u4eba\u4eba"
+   },
+   "contextMenuShareImageTencent": {
+      "description": "Share Image to Tencent Weibo",
+      "message": "\u5206\u4EAB\u56FE\u7247\u5230\u817e\u8baf\u5FAE\u535A"
+   },
+   "contextMenuSharePageTencent": {
+      "description": "Share Page to Tencent Weibo",
+      "message": "\u5206\u4EAB\u9875\u9762\u5230\u817e\u8baf\u5FAE\u535A"
+   },
+   "contextMenuShareSelectionTencent": {
+      "description": "Share Selection to Tencent Weibo",
+      "message": "\u5206\u4EAB\u9009\u4E2D\u5230\u817e\u8baf\u5FAE\u535A"
+   },   
+   "contextMenuShareImageWangyi": {
+      "description": "Share Image to Wangyi Weibo",
+      "message": "\u5206\u4EAB\u56FE\u7247\u5230\u7f51\u6613\u5FAE\u535A"
+   },
+   "contextMenuSharePageWangyi": {
+      "description": "Share Page to Wangyi Weibo",
+      "message": "\u5206\u4EAB\u9875\u9762\u5230\u7f51\u6613\u5FAE\u535A"
+   },
+   "contextMenuShareSelectionWangyi": {
+      "description": "Share Selection to Wangyi Weibo",
+      "message":"\u5206\u4EAB\u9009\u4E2D\u5230\u7f51\u6613\u5FAE\u535A"
+   },
+   "extDescription": {
+      "description": "Extension description.",
+      "message": "\u5c06\u7f51\u9875\u3001\u56fe\u7247\u3001\u6587\u5b57\u5206\u4eab\u81f3\u793e\u4ea4\u7f51\u7ad9\uff0c\u6216\u662f\u5c06\u4e0a\u8ff0\u5185\u5bb9\u901a\u8fc7\u4e8c\u7ef4\u7801\u8f6c\u79fb\u81f3\u79fb\u52a8\u8bbe\u5907"
+   },
+   "extName": {
+      "description": "Extension Name.",
+      "message": "\u5206\u4eab/\u8f6c\u79fb"
+   },
+   "optionsAccountTitle": {
+      "description": "account title of the options page",
+      "message": "\u5E10\u53F7\u8BBE\u7F6E"
+   },
+   "optionsAutoLoadNewFeeds": {
+      "description": "text of the checkbox whether load new feeds automatically",
+      "message": "\u81EA\u52A8\u52A0\u8F7D\u65B0\u5FAE\u535A"
+   },
+   "optionsHideAds": {
+      "description": "text for checkbox whether to hide the ads",
+      "message": "\u9690\u85CF\u5E7F\u544A"
+   },
+   "optionsReset": {
+      "description": "text for button to restore default settings",
+      "message": "\u9ED8\u8BA4"
+   },
+   "optionsSave": {
+      "description": "text for button to save settings",
+      "message": "\u4FDD\u5B58"
+   },
+   "optionsTitle": {
+      "description": "Title of the options page.",
+      "message": "\u65B0\u6D6A\u5FAE\u535A\u52A9\u624B\u8BBE\u7F6E"
+   },
+   "optionsUseUrlShortening": {
+      "description": "text for checkbox whether use url shortening.",
+      "message": "\u4F7F\u7528\u77ED\u7F51\u5740"
+   },
+   "others": {
+      "description": "others",
+      "message": "\u5176\u4ED6"
+   },
+   "password": {
+      "description": "password",
+      "message": "\u5BC6\u7801"
+   },
+   "popupAddAccount": {
+      "description": "add account",
+      "message": "\u6DFB\u52A0\u5E10\u53F7"
+   },
+   "popupAtMe": {
+      "description": "atme",
+      "message": "@me"
+   },
+   "popupHome": {
+      "description": "home",
+      "message": "\u6211\u7684\u9996\u9875"
+   },
+   "popupMessages": {
+      "description": "Messages",
+      "message": "\u79C1\u4FE1"
+   },
+   "popupSettings": {
+      "description": "Settings",
+      "message": "\u52A9\u624B\u8BBE\u7F6E"
+   },
+   "popupShare": {
+      "description": "Share",
+      "message": "\u5206\u4EAB\u6B64\u9875"
+   },
+   "popupShorten": {
+      "description": "shorten",
+      "message": "\u77ED\u7F51\u5740"
+   },
+   "popupSwitchUser": {
+      "description": "Switch user",
+      "message": "\u5207\u6362\u7528\u6237"
+   },
+   "getSelectionQR": {
+   		"description": "Get Selection	QR Code",
+   		"message": "\u751F\u6210\u9009\u4E2D\u4e8c\u7ef4\u7801"
+   },
+   "getPageQR": {
+   		"description": "Get Page QR Code",
+   		"message": "\u751F\u6210\u9875\u9762\u4e8c\u7ef4\u7801"
+   },
+   "getImageQR": {
+   		"description": "Get Image QR Code",
+   		"message":	"\u751F\u6210\u56fe\u7247\u4e8c\u7ef4\u7801"
+   }
+}
